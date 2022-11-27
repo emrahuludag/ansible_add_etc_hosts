@@ -1,4 +1,4 @@
-#Inventory Dosyasındaki Host'ları Tüm Node'lardaki Hosts Dosyasına Ekleme
+#Inventory Dosyasındaki Host'ları Tum Node'lardaki Hosts Dosyasına Ekleme
 
 >---
 - hosts: allnode
